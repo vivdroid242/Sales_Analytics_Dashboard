@@ -1,3 +1,9 @@
+## Screenshots of Dashboard
+
+![key_insights](https://github.com/vivdroid242/Sales_Analytics_Dashboard/assets/56084066/f000f60d-3600-4e74-afb7-c3129e8f3215)
+![performance_insights ](https://github.com/vivdroid242/Sales_Analytics_Dashboard/assets/56084066/c14a7bef-a561-4e85-8685-d89921471640)
+![profit_analysis](https://github.com/vivdroid242/Sales_Analytics_Dashboard/assets/56084066/2057681c-c3ba-4b90-9ca3-fc56c9341389)
+
 ## Sales Insights Data Analysis Project
 
 1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it as per instructions given in the tutorial video
